@@ -14,7 +14,9 @@ Where this language works poorly
 
 This is not indended to be used for anything that Rust can already achieve.
 
-[Typing](typing.md)
-[Variables](variables.md)
-[Functions](functions.md)
-[Control Flow](control-flow.md)
+## Table of Contents
+
+- [Typing](typing.md)
+- [Variables](variables.md)
+- [Functions](functions.md)
+- [Control Flow](control-flow.md)
