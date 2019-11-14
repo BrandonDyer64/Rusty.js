@@ -20,3 +20,4 @@ This is not indended to be used for anything that Rust can already achieve.
 - [Variables](variables.md)
 - [Functions](functions.md)
 - [Control Flow](control-flow.md)
+- [Enums](enums.md)
